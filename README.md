@@ -1,6 +1,9 @@
 # CERL: A Unified Optimization Framework forLight Enhancement with Realistic Noise
 Code used for [CERL: A Unified Optimization Framework for Light Enhancement with Realistic Noise](https://arxiv.org/abs/2108.00478). 
 
+## Representitive Results
+![representive_results](/imgs/teaser.jpg)
+
 ## Testing
 * Download pre-trained model from [Google Drive](https://drive.google.com/drive/folders/1sHTx1ksZlQ2HSHmHt8UgcZK81NRekJjL?usp=sharing). Put them in ./checkpoints
 * Use pre-trained EnlightenGAN model to generate enhanced noisy images. Put them in ./test_imgs
