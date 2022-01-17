@@ -2,10 +2,10 @@
 Code used for [CERL: A Unified Optimization Framework for Light Enhancement with Realistic Noise](https://arxiv.org/abs/2108.00478). 
 
 ## Representitive Results
-![representive_results](/imgs/teaser.jpg)
+![representive_results](/imgs/teaser.png)
 
 ## Overal Architecture
-![architecture](/imgs/cerl8.pdf)
+![architecture](/imgs/cerl.png)
 
 ## Testing
 * Download pre-trained model from [Google Drive](https://drive.google.com/drive/folders/1sHTx1ksZlQ2HSHmHt8UgcZK81NRekJjL?usp=sharing). Put them in ./checkpoints
