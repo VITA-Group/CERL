@@ -4,6 +4,9 @@ Code used for [CERL: A Unified Optimization Framework for Light Enhancement with
 ## Representitive Results
 ![representive_results](/imgs/teaser.jpg)
 
+## Overal Architecture
+![architecture](/imgs/cerl8.pdf)
+
 ## Testing
 * Download pre-trained model from [Google Drive](https://drive.google.com/drive/folders/1sHTx1ksZlQ2HSHmHt8UgcZK81NRekJjL?usp=sharing). Put them in ./checkpoints
 * Use pre-trained EnlightenGAN model to generate enhanced noisy images. Put them in ./test_imgs
